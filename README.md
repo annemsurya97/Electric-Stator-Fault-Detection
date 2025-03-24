@@ -2,7 +2,7 @@
 Electric Stator Fault Detection using Motor Parameters and IoT sensor data
 Permanent Magnet Synchronous Machines
 
-Project Overview
+**Project Overview**
 
 This project focuses on the detection of false faults in Permanent Magnet Synchronous Machines (PMSMs) to improve preventive maintenance strategies. The model leverages machine learning algorithms to classify whether a stator fault is present or not. The project utilizes Ridge Classifier and CatBoost Classifier to predict faults based on sensor data.
 
